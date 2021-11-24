@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "tBJgqvYu2HeOB9axGRe7zV81HLAom/CQ2PBEl1jyGdfIdrNqig97xcXYuqFf7lvIoSc/gQhRZZAAIUbDM2Y10g==",
+  "success": false,
+  "projectFilePath": "D:\\5A\\Cours\\IA_Probabilités\\TP2\\TP2_BPM_Classifier\\ImageClassifier\\Image_Classifier.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Projet 'D:\\5A\\Cours\\IA_Probabilités\\TP2\\Runtime\\Runtime.csproj' introuvable. Vérifiez que la référence de projet est valide et que le fichier projet existe.",
+      "libraryId": "D:\\5A\\Cours\\IA_Probabilités\\TP2\\Runtime\\Runtime.csproj",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1",
+        ".NETFramework,Version=v4.6.1/win7-x86"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Projet 'D:\\5A\\Cours\\IA_Probabilités\\TP2\\Compiler\\Compiler.csproj' introuvable. Vérifiez que la référence de projet est valide et que le fichier projet existe.",
+      "libraryId": "D:\\5A\\Cours\\IA_Probabilités\\TP2\\Compiler\\Compiler.csproj",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1",
+        ".NETFramework,Version=v4.6.1/win7-x86"
+      ]
+    }
+  ]
+}
