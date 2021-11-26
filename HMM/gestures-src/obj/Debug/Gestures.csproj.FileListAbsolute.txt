@@ -1,0 +1,5 @@
+D:\5A\Cours\IA_Probabilités\TP2\gestures-src\obj\Debug\Gestures.csproj.AssemblyReference.cache
+D:\5A\Cours\IA_Probabilités\TP2\gestures-src\obj\Debug\Gestures.Canvas.resources
+D:\5A\Cours\IA_Probabilités\TP2\gestures-src\obj\Debug\Gestures.MainForm.resources
+D:\5A\Cours\IA_Probabilités\TP2\gestures-src\obj\Debug\Gestures.Properties.Resources.resources
+D:\5A\Cours\IA_Probabilités\TP2\gestures-src\obj\Debug\Gestures.csproj.GenerateResource.cache
